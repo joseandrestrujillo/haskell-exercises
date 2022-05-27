@@ -1,0 +1,2 @@
+-- let lista = [2,4 .. 100] = pair numbers from 2 to 100
+-- let lista ['A' .. 'Z'] 

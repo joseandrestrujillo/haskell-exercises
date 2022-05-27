@@ -1,0 +1,7 @@
+ -- succ a:
+    -- succ 1 = 2
+    -- succ 'a' = 'b'
+ -- min a b
+ -- max a b
+ -- max a (succ b)
+ -- odd x 

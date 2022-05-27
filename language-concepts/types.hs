@@ -1,0 +1,7 @@
+-- :t "a" [Char]
+-- :t 'a' Char
+-- :t True Bool
+-- :t 6 Num
+-- :t 6.3 Fractional
+-- :t head [a] -> a
+-- :t fst (a,b) -> a
